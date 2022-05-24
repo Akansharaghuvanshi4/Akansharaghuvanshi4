@@ -11,8 +11,6 @@
 
 - My primary coding language: **Java**
 
--
-
 - Passionate for learning & exploring new Tech.
 
 - Ask me about anything, I'll be happy to help.
@@ -22,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://www.linkedin.com/mwlite/in/akansha-raghuvanshi-639a43194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg" alt="ankit595" height="30" width="40" /></a> <a href="https://www.instagram.com/akankshit_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/instagram.svg" alt="ankit595" height="30" width="40" /></a> <a href="https://www.youtube.com/channel/UCX2L95Pfp1IqJqP880SHVNg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/youtube.svg" alt="uc0uwr_zmywvic7kpvq10mhw" height="30" width="40" /></a> <a href="https://www.hackerrank.com/akumar78210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/hackerrank.svg" alt="akumar78210" height="30" width="40" /></a><a href="https://www.hackerearth.com/@ankit_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/hackerearth.svg" alt="@ankit_14" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/akumar78210/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/geeks-for-geeks.svg" alt="akumar78210/profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/mwlite/in/akansha-raghuvanshi-639a43194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg" alt="ankit595" height="30" width="40" /></a> <a href="https://www.instagram.com/akansharaghvanshi4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/instagram.svg" alt="ankit595" height="30" width="40" /></a>  <a href="https://auth.geeksforgeeks.org/user/akansharaghuvanshi4/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/geeks-for-geeks.svg" alt="akansharaghuvanshi4/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
