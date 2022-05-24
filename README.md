@@ -1,9 +1,9 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Akansha Raghuvanshi></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Akansha Raghuvanshi</h1>
 <h3 align="center">A passionate Android & Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akansharaghuvanshi4&label=Profile%20views&color=0e75b6&style=flat" alt="Akansharaghuvanshi4" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit595&theme=juicyfresh" alt="Akansharaghuvanshi4" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akansharaghuvanshi4&theme=juicyfresh" alt="Akansharaghuvanshi4" /></a> </p>
 
 - 💬 Ask me about **Flutter, Java , C programming**
 
